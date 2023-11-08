@@ -1,16 +1,17 @@
 # yasin
 
-A new Flutter project.
+<table>
 
-## Getting Started
+<tr>
+  <th>Splash Screen View</th>
+  <th>Home Screen View</th>
+</tr>
 
-This project is a starting point for a Flutter application.
+<td>
+  <img src="https://github.com/yasin9064/Demo-Application/assets/108936278/102109ee-e276-42ab-9fa4-ad8efb8dba6a" width="260"/>
+</td>
+<td>
+  <img src="https://github.com/yasin9064/Demo-Application/assets/108936278/04c84878-edf6-46fd-a9b2-1f1dbdffc9c6" width="260"/>
+</td>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</table>
